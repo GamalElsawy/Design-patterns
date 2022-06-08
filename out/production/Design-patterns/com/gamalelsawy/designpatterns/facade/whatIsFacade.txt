@@ -1,0 +1,1 @@
+ // Used to wrap multiple objects to one simple class, and use it.
